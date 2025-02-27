@@ -1,4 +1,4 @@
-## Hi there
+## Hi there😲
 
 <!--
 **FixLogic/fixLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h6>skibidi</h6>
 <h4>yes</h4>
 
-<img>https://steamuserimages-a.akamaihd.net/ugc/5068270035096160339/5D8449E11653E9E7430453EF74AA7D486F52F02D/?imw=512&amp;imh=431&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true</img>
+
